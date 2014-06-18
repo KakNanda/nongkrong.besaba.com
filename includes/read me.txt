@@ -1,0 +1,12 @@
+Thanks for downloading a freeosCommerce.com template
+
+Installation instructions can be found at: http://freeosCommerce.com/installation/
+
+
+Browse osCommerce 2.3 templates, osCommerce 2.2 (STS) templates and osCommerce 3 templates at http://freeosCommerce.com/
+
+
+    Copyright (c) freeosCommerce.com 2011
+
+
+    This file is part of a freeosCommerce.com template.  Please visit http://www.freeosCommerce.com for licensing and other information.
